@@ -10,7 +10,8 @@ const { createApp } = Vue
   createApp({
     data() {
       return {
-        message: 'The Progressive Javascript Framework: VUE! '
+        message: 'The Progressive Javascript Framework: VUE! ',
+        image: 'img/immagine_sfondo.jpg'
       }
     }
   }).mount('#app')
