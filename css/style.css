@@ -7,10 +7,15 @@
 h1{
     position: relative;
     color: #5468ff;
-    font-size: 33px;
+    font-size: 30px;
     text-align: center;
     top: 300px;
     left: 170px;
+}
+
+#logo{
+    width: 30px;
+    vertical-align: middle;
 }
 
 

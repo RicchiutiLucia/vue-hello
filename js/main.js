@@ -11,6 +11,7 @@ const { createApp } = Vue
     data() {
       return {
         message: 'The Progressive Javascript Framework: VUE! ',
+        logo:'img/vue.png',
         image: 'img/immagine_sfondo.jpg'
       }
     }
