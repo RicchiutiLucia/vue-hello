@@ -3,3 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+h1{
+    color: #5468ff;
+    padding: 100px;
+    font-size: 50px;
+   text-align: center;
+}
